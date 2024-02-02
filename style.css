@@ -200,6 +200,9 @@ th, td {
 th {
     background-color: #f2f2f2;
 }
+tr:nth-child(even){
+  background-color: #edf5ad;
+}
 main.recipes div{
   display: inline-block;
   width: 45%;
